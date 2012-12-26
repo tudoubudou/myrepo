@@ -1,0 +1,13 @@
+[color]
+	ui = auto
+[user]
+	name = guoziwen
+	email = guoziwen@baidu.com
+[alias]
+	br = branch
+	hist = log --pretty=format:\"%h%d %an %ad | %s\" --date=short --graph
+	co = checkout
+	ci = commit
+	st = status
+[core]
+	editor = vi
